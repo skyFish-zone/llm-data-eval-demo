@@ -1,0 +1,7 @@
+gold_label,account,billing,delivery,product_usage,technical_issue,refund
+account,8,0,0,0,0,0
+billing,0,8,0,0,0,0
+delivery,0,0,6,1,0,1
+product_usage,0,0,0,8,0,0
+technical_issue,0,0,0,1,7,0
+refund,0,0,0,0,0,8

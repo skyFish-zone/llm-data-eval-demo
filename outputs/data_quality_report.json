@@ -1,0 +1,21 @@
+{
+  "row_count": 48,
+  "missing_columns": [],
+  "duplicate_id_count": 0,
+  "duplicate_query_count": 0,
+  "missing_query_count": 0,
+  "missing_label_count": 0,
+  "invalid_label_count": 0,
+  "empty_query_count": 0,
+  "min_query_length": 26,
+  "max_query_length": 61,
+  "label_distribution": {
+    "account": 8,
+    "billing": 8,
+    "delivery": 8,
+    "product_usage": 8,
+    "refund": 8,
+    "technical_issue": 8
+  },
+  "passed": true
+}

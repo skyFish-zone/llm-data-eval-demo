@@ -1,0 +1,7 @@
+gold_label,sample_count,badcase_count,error_rate
+delivery,8,2,0.25
+technical_issue,8,1,0.125
+account,8,0,0.0
+billing,8,0,0.0
+product_usage,8,0,0.0
+refund,8,0,0.0

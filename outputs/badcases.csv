@@ -1,0 +1,4 @@
+id,query,gold_label,prediction,is_correct
+q022,Why was my shipment returned to sender?,delivery,refund,False
+q024,Can I reschedule tomorrow's delivery?,delivery,product_usage,False
+q038,The upload fails when the file is larger than 20 MB,technical_issue,product_usage,False

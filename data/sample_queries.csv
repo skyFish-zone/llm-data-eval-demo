@@ -1,0 +1,49 @@
+id,query,gold_label
+q001,How do I change the email address on my account?,account
+q002,I forgot my password and cannot sign in,account
+q003,Can I delete my account permanently?,account
+q004,Why was my account locked after several login attempts?,account
+q005,Where can I update my profile information?,account
+q006,I need to change the phone number linked to my account,account
+q007,How can I enable two-factor authentication?,account
+q008,My verification code never arrives,account
+q009,Why was I charged twice for the same order?,billing
+q010,Where can I download an invoice?,billing
+q011,My card was charged but the payment page says failed,billing
+q012,Can I switch my subscription from monthly to annual?,billing
+q013,Why is there an extra tax on my bill?,billing
+q014,The coupon was not applied at checkout,billing
+q015,How do I update my payment method?,billing
+q016,My renewal price looks different from last month,billing
+q017,The package has not arrived and the tracking stopped updating,delivery
+q018,Can I change the shipping address after placing an order?,delivery
+q019,The courier says delivered but I cannot find the parcel,delivery
+q020,How long does standard shipping usually take?,delivery
+q021,Can I choose a pickup point instead of home delivery?,delivery
+q022,Why was my shipment returned to sender?,delivery
+q023,The tracking number is not recognized,delivery
+q024,Can I reschedule tomorrow's delivery?,delivery
+q025,How do I export my reports to CSV?,product_usage
+q026,Where can I create a new workspace?,product_usage
+q027,Can I invite teammates with read-only access?,product_usage
+q028,How do I filter the dashboard by date range?,product_usage
+q029,Is there a way to schedule a weekly report?,product_usage
+q030,Where can I find the API settings page?,product_usage
+q031,How do I duplicate an existing project?,product_usage
+q032,Can I customize notification preferences?,product_usage
+q033,The app crashes every time I open the analytics page,technical_issue
+q034,The dashboard keeps loading forever,technical_issue
+q035,I get error 502 when calling the API,technical_issue
+q036,The mobile app freezes after the latest update,technical_issue
+q037,Why does the page show a blank screen in Chrome?,technical_issue
+q038,The upload fails when the file is larger than 20 MB,technical_issue
+q039,API requests are timing out today,technical_issue
+q040,The report generation job failed overnight,technical_issue
+q041,I want my money back for this order,refund
+q042,How do I request a refund?,refund
+q043,The item arrived damaged and I want to return it,refund
+q044,Can I cancel the order and get the payment reversed?,refund
+q045,My refund was approved but I have not received the money,refund
+q046,What is the return window for an unopened item?,refund
+q047,I accidentally purchased the wrong plan and want a refund,refund
+q048,The courier lost my package; can I get reimbursed?,refund

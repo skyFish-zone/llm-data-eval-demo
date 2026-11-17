@@ -1,0 +1,49 @@
+id,query,gold_label,prediction,is_correct
+q001,How do I change the email address on my account?,account,account,True
+q002,I forgot my password and cannot sign in,account,account,True
+q003,Can I delete my account permanently?,account,account,True
+q004,Why was my account locked after several login attempts?,account,account,True
+q005,Where can I update my profile information?,account,account,True
+q006,I need to change the phone number linked to my account,account,account,True
+q007,How can I enable two-factor authentication?,account,account,True
+q008,My verification code never arrives,account,account,True
+q009,Why was I charged twice for the same order?,billing,billing,True
+q010,Where can I download an invoice?,billing,billing,True
+q011,My card was charged but the payment page says failed,billing,billing,True
+q012,Can I switch my subscription from monthly to annual?,billing,billing,True
+q013,Why is there an extra tax on my bill?,billing,billing,True
+q014,The coupon was not applied at checkout,billing,billing,True
+q015,How do I update my payment method?,billing,billing,True
+q016,My renewal price looks different from last month,billing,billing,True
+q017,The package has not arrived and the tracking stopped updating,delivery,delivery,True
+q018,Can I change the shipping address after placing an order?,delivery,delivery,True
+q019,The courier says delivered but I cannot find the parcel,delivery,delivery,True
+q020,How long does standard shipping usually take?,delivery,delivery,True
+q021,Can I choose a pickup point instead of home delivery?,delivery,delivery,True
+q022,Why was my shipment returned to sender?,delivery,refund,False
+q023,The tracking number is not recognized,delivery,delivery,True
+q024,Can I reschedule tomorrow's delivery?,delivery,product_usage,False
+q025,How do I export my reports to CSV?,product_usage,product_usage,True
+q026,Where can I create a new workspace?,product_usage,product_usage,True
+q027,Can I invite teammates with read-only access?,product_usage,product_usage,True
+q028,How do I filter the dashboard by date range?,product_usage,product_usage,True
+q029,Is there a way to schedule a weekly report?,product_usage,product_usage,True
+q030,Where can I find the API settings page?,product_usage,product_usage,True
+q031,How do I duplicate an existing project?,product_usage,product_usage,True
+q032,Can I customize notification preferences?,product_usage,product_usage,True
+q033,The app crashes every time I open the analytics page,technical_issue,technical_issue,True
+q034,The dashboard keeps loading forever,technical_issue,technical_issue,True
+q035,I get error 502 when calling the API,technical_issue,technical_issue,True
+q036,The mobile app freezes after the latest update,technical_issue,technical_issue,True
+q037,Why does the page show a blank screen in Chrome?,technical_issue,technical_issue,True
+q038,The upload fails when the file is larger than 20 MB,technical_issue,product_usage,False
+q039,API requests are timing out today,technical_issue,technical_issue,True
+q040,The report generation job failed overnight,technical_issue,technical_issue,True
+q041,I want my money back for this order,refund,refund,True
+q042,How do I request a refund?,refund,refund,True
+q043,The item arrived damaged and I want to return it,refund,refund,True
+q044,Can I cancel the order and get the payment reversed?,refund,refund,True
+q045,My refund was approved but I have not received the money,refund,refund,True
+q046,What is the return window for an unopened item?,refund,refund,True
+q047,I accidentally purchased the wrong plan and want a refund,refund,refund,True
+q048,The courier lost my package; can I get reimbursed?,refund,refund,True
